@@ -1,4 +1,5 @@
 # cinema
+[Demo](https://vladzen.github.io/cinema/)
 
 ## Build Setup
 
