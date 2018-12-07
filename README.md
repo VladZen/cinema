@@ -1,7 +1,5 @@
 # cinema
 
-> Test project to Nitka Technologies
-
 ## Build Setup
 
 ``` bash
